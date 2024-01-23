@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: tool-29489
+Version: 2.0.3
+Summary: Tool to identify URL with cve-2023-29489 vulnerability
+Author: Prasad D
+Author-email: <prasadd.1808@gmail.com>
+Keywords: python,url,cve,cve-2023,cve-2023-29489,vulnerabilty detection tool
+License-File: LICENCE
+
+Tool to identify URL with cve-2023-29489 vulnerability

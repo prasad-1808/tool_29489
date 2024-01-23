@@ -1,0 +1,2 @@
+[console_scripts]
+tool-29489 = src.main:main

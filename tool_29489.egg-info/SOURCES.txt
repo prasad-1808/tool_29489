@@ -1,0 +1,13 @@
+LICENCE
+README.md
+setup.py
+src/__init__.py
+src/main.py
+src/includes/filereader.py
+src/includes/filewriter.py
+src/includes/scan.py
+tool_29489.egg-info/PKG-INFO
+tool_29489.egg-info/SOURCES.txt
+tool_29489.egg-info/dependency_links.txt
+tool_29489.egg-info/entry_points.txt
+tool_29489.egg-info/top_level.txt
